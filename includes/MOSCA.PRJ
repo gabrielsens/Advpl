@@ -1,0 +1,13 @@
+Group Novo Grupo de Projetos
+   Version=3.0
+   ProjectsCount=1
+   Project Novo Projeto
+      FoldersCount=1
+      Folder Nova Pasta1
+         FilesCount=1
+         File \RDMAKE\gpeword.prw
+              Deleted=0
+         End
+      End
+   End
+End
